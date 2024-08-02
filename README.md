@@ -17,7 +17,7 @@ cd local-wifi-extractor
 
 # Run the application
 Open a cmd and run  next command
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File extract_wifi.ps1
+```powershell.exe -NoProfile -ExecutionPolicy Bypass -File extract_wifi.ps1```
 
 
 ## Usage
